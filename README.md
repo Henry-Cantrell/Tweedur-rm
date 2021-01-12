@@ -1,6 +1,6 @@
 # Tweedur-rm
 
-Framework: react.js
-State store: redux
-Database software: firebase
-Component library: materialUI
+# Framework: react.j
+# State store: redux
+# Database software: firebase
+# Component library: materialUI
